@@ -1,6 +1,6 @@
 # Quiz Time
 It is a game where you get Multiple choice questions from different categories.
-# Categories
+# Categories included
 ## 1)Science
 ## 2)Entertainment
 ## 3)Society
