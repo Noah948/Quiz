@@ -29,10 +29,7 @@ async function start(){
         {
             body.removeChild(btn1);
         }
-     if(que.contains(h4))
-        {
-            que.removeChild(h4);
-        }
+    que.replaceChildren();
     let rd=Math.floor(Math.random()*10);
     let qbox=document.createElement("div");
     let op=document.createElement("div");
