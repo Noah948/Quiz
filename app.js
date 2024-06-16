@@ -81,6 +81,7 @@ async function start(){
                 }
                 else{
                     total++;
+                    choice[correct].classList.add("correct");
                     choice[i].classList.add("wrong");
                     setTimeout(function(){
                     que.replaceChildren();
