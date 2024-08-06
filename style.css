@@ -1,9 +1,7 @@
-body {
-    background-image: url('quiz2.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display:flex; flex-direction:column; justify-content:center;
+
+body{
+  text-align: center;
+  background-color: lightblue;
 }
 h1{
     text-align: center;
@@ -23,6 +21,7 @@ h1{
     text-align: center;
     font-size: 1.2rem;
     padding-top:1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: azure;
     height:8rem;
     width:30rem;
